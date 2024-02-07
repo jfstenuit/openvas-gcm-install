@@ -1,4 +1,4 @@
-# openvas-gcm-install
+# openvas-gvm-install
 Script to install OpenVAS/GVM suite on debian-based systems
 
 Similar to https://github.com/itiligent/OpenVAS-GVM-Install/ but takes a different approach.
